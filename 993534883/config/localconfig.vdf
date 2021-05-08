@@ -1,0 +1,116 @@
+"UserLocalConfigStore"
+{
+	"streaming_v2"
+	{
+		"EnableStreaming"		"1"
+		"DefaultAudioDevice"		"{0.0.0.00000000}.{c87b5c0f-c660-4ece-b0aa-a06f3dbecf55}"
+		"DefaultAudioDeviceName"		"Speakers (2- High Definition Audio Device)"
+		"DefaultMicrophone"		"{0.0.1.00000000}.{2d469d26-9d2a-418f-b048-739236b83d50}"
+		"DefaultMicrophoneName"		"Microphone (2- High Definition Audio Device)"
+		"P2PScopeV2"		"0"
+	}
+	"Broadcast"
+	{
+		"Permissions"		"1"
+	}
+	"friends"
+	{
+		"PersonaName"		".︻ ̵̵̳ ——"
+		"communitypreferences"		"0801100118002000280130013800"
+		"993534883"
+		{
+			"name"		".︻ ̵̵̳ ——"
+			"NameHistory"
+			{
+				"0"		".︻ ̵̵̳ ——"
+				"1"		"duybngch18459"
+			}
+		}
+	}
+	"Licenses"
+	{
+		"0"		"010000004613e312c3fc092f78730134c7b0a1b2a76312f1510f0208e2b4647b0cb2885300e8cd6e08cfa818af6a7e86129f1c4769ca05fa9632bc43f409ae62027f4b673d4f14f7f730f281348b169ce95919a3d523863a64e6180daf383e8e4a833a981991a19dda588df3ea3d807313450efa3e0e2eab8e8157012975b3c859fa8de6854c56b2db464d0b1d58df11b3da545477ba353a35019b84f5b94aba3b512304dc865c1ead13a1764b7ae2191c65ecf98f364666bc345f217a66368ba6929c74edd2fd0fcc0e6ef03c3265e1daa8bd870e55558c079b504c936cf00e0a9b2d218169409eba606780323f8d87d569f99fad01a718cd1363ee1fc2678bf536736253cfb58109d2bda1711a2ebee98b370c6f81bc179d630262f38c1eae2929b6ede80f569d17837679fefecd5620070dfc2f72bd664ab9c8d46ffa7a6080f859196129fd7700080882241010"
+		"303386"		"010000004613e312c3fc092f78730134c7b0a1b2a76312f1510f0208e2b47eda08b2885300e8cd6e08cfa818af6a7e27adbb204769ca05fa9632bc43f409ae62027f4b673d4f14f7f730f281348b169ce95919a3d523863a64e6180daf383e8e4a833a981991a19dda588df3ea3d807313450efa3e0e2eab8e8157012975b3c859fa8de6854c56b2db464d0b1d58df11b3da021811d432312766e884f5bb48ee5c77341fda805a089c05867c2f1fe2191c678092803a4b70b73343256616528ba7929e3b98f3ef13e03827171fa97ddba8c49d9d0e4050bd0eb95c519e03940e0a9b2f68ed495a9eaf6552850b33b58ce97390ebad01a71a9f745fee06c67cbafc147f7f5ea0d18109d2bff316262ea7ed900209568d841ca1796b16f38c1ea9684d94ebf81971812889731c242eb102ed56155b9850de585fafcee17cc970628cfc7738286dfd7784ed5007087ad17e50"
+	}
+	"apptickets"
+	{
+		"7"		"3200000004000000a323383b01001001070000007d19f90e0801a8c000000000e4e595606495b16001000000000000000000bd75cd4020d19624550027beff6f04408972d4210dfd409171584456bba193ed07fcc999c942e65ce46fcb4158b35636fd1ee6a3796e091599e69946bf46a2ef6d23d8836945f499cdd9a4484d181f4ad2e065545950bc544e656d069d8d9c4b173eba2522ed477c87b4993774b5c7dc3edfea30ba84e2d3d88c2c4f28cb3744"
+		"730"		"3200000004000000a323383b01001001da0200007d19f90e0801a8c000000000974a956017fab06001001aa1040000000000b0b9db577dd812e82e7c51ce5d392c28c6dd1dd144ffcea72b64d9ea7c42ebc375b766f54683a609c278b89244b2ed752c45f21d4c4dd024938e982b7543254abcf06b473622fefb8a6541a7092c0e68c3632d66b2415697308052e420134058d06364f37783ec3e206f207879b111a7c621e0ba0506bbde37255eb1b9d9d0bf"
+	}
+	"Offline"
+	{
+		"Ticket"		"a5cd0c99bd4b5ee705de1dededf01b4e1bdc2ecfe8a1354d14a6a7fdf0d834d106"
+		"Signature"		"849f04b0ab6d20569f94749b69acb2bc2ba4ba75bd02b9a72116677cca5de0df5a2ee2eaaf469afbd0694d87703af7c801dbe4fa7d0806533168301c776d548c827fb604f0e773a302a75ba5af664626f882fa9774e21597647b749215a99766be19146311a142d09952221a2ca8e347b258b81d53c68ef4f2b202cb54c06621298d327f5c94fea2bd693142f9fced5ad8392844cdeef37596634ee878ff34f0506437a4b2adc6908dadcadbc6dbf262227c885556dc99a77b068433f1a6532ede7d24353d35d20ad53fb72073d4f05137881e756c48bb48f7e32a8d71b7913d6274fcdce8c6e7d004dd1fd6aa4d7af7571a588f26166a61958be8dd74f33e3b"
+	}
+	"ParentalSettings"
+	{
+		"settings"		"09a323383b000000004800"
+		"Signature"		"af68ac22b9e7693daf2498722608d2bcc9b8021495193993fccaa85eaac7e7ee851954b814be4db5dff3f5b588040a32448edabd669721657df073e42b91e6584d79b5f4b578ca38fc22ee70c649cdf1227410505686cd0d6d857309b67df92b8130750e3bb7b61455532a669bc93d3358379b1b8ccde8d896533abf2dce4b511d7b9667996e3b473715ad28f743764ba402a1a502184f03d62be5c086a390ca957d85b5061b80eb8054b095347a85c44af314b33e0e06c34f38f3428fb34ab46d886c5689dcae4909b3760a4e2acd379831f796ff4a7a6f0f3871b55d3f6acba910f62cc7b526445ceb754f2cdcc8a2a202097c56af5279b440e1b4624f5ada"
+	}
+	"CloudKey"		"01000000051c97f86dae5ee610526c32b16b1d856ee57482103c507fdad461d67a25c32b6e1939c0"
+	"CloudKeyCRC"		"-71056917"
+	"AppInfoChangeNumber"		"11433461"
+	"SharedAuth"
+	{
+		"id"		"468387522"
+		"AuthData"		"2ef343696a3f5155b9432e1c45fa9f5b6eae6565d8aeb2dbf52b3134a15d1217"
+	}
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"Apps"
+				{
+					"730"
+					{
+						"LastPlayed"		"1620437684"
+						"Playtime"		"366"
+						"autocloud"
+						{
+							"lastlaunch"		"1620437655"
+							"lastexit"		"1620437647"
+						}
+						"BadgeData"		"020000000800"
+						"DisableUpdatesUntil"		"0"
+						"Playtime2wks"		"62"
+					}
+				}
+				"LastPlayedTimesSyncTime"		"1620408662"
+				"PlayerLevel"		"0"
+			}
+		}
+	}
+	"WebStorage"
+	{
+		"UIStoreLocalState"		"{\"nVersion\":1,\"eGameListView\":1,\"bGroupedByCollection\":true,\"bSortedByRecent\":false,\"mapCollapsedState\":[[\"uncategorized\",false],[\"hidden\",true]],\"currentSelection\":{\"strCollectionId\":\"uncategorized\",\"nAppId\":730},\"bGroupBySharedLibraries\":false,\"collectionFilter\":{\"nFormatVersion\":2,\"strSearchText\":\"\",\"filterGroups\":[{\"rgOptions\":[1],\"bAcceptUnion\":true},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false},{\"rgOptions\":[],\"bAcceptUnion\":false}]}}"
+		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":3,\"timestamp_added\":1620396840},{\"content_descriptorid\":4,\"timestamp_added\":1620396840}]}}"
+		"CachedCommunityPreferences"		"{\"bBlurAdultContentViolence\":true,\"bBlurAdultContentSex\":true,\"bParenthesizeNicknames\":false}"
+		"friendsactivitystore_storage"		"{\"nVersion\":1,\"cachedFriendsAppsActivity\":{\"trending\":[],\"recent_purchases\":[],\"unowned\":[],\"popular\":[],\"dont_forget\":[],\"being_discussed\":[],\"new_to_group\":[],\"returned_to_group\":[],\"active_friend_count\":0},\"rtCachedFriendsAppsActivityTimeStamp\":1620396675.091}"
+		"playnextstore_storage"		"{\"nVersion\":3,\"cachedPlayNext\":{\"last_update_time\":1620396700,\"appids\":[]},\"rgIgnoredApps\":[]}"
+		"SteamVoiceSettings_993534883"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true}"
+		"CTextFilterStore_TextFilterPreferences"		"{\"eTextFilterSetting\":1,\"bIgnoreFriends\":true}"
+		"CTextFilterStore_TextFilterWords"		"{\"text_filter_custom_banned_words\":[],\"text_filter_custom_clean_words\":[]}"
+		"CTextFilterStore_strBannedPattern"		"\"\\\\b((ape|bat|bull?|butt|dip|dog|dumb|ebo|holy|horse|jack|pedo|pig|ubi)\\\\W*sh(it|ti)s?|d[il]+(ck|kc)\\\\W*(ass|bag|breath|eat|face|flip|head|hole|less|suck|weed)\\\\w*|f[chj]?(a|au|aw|e|o+|u|uy)[ch]*k(e?d|e?rs?|[ei]?n+g?|t)|m[aou](d+|t+|th|ht|z)(a|e|er|ir|ur)(c|f)c?[aou]c?k\\\\w*|m[ou]th(a|er)(f|ph)[vue]+c?[gkqx]+(e?d|e?r|[ei]?n+g?)|\\\\w*f[vu]+h*c+[hjvk]*(e?d|e?r|[ei]?n+g?|t)|b+i+a*t+c+h+(e+d|e*r?[sz]+|[ei]?n+g?|y)|\\\\w*f[vu]+c?[xkq]+(e?d|e?r|[ei]?n+g?|t)|p(oo+|u+)s+(a+y+|e+|eh|ey|i+|ie|y+)s*|m[ou]th(a|er)(f|ph)[vue]+c?[gkqx]+|\\\\w*f[vu]+h*q(e?d|e?r|[ei]?n+g?|t)|f[chj]?(a|au|aw|e|o+|u|uy)[ch]*k|f[ck]+(e?d|e?r|[ei]?n+g?|t)|fu󠀡󠀡cki󠀡󠀡ng|dumb(f|ph)[vu]+c?[xkq]|c(oc?|aw)k\\\\W*suc?k\\\\w*|d[il]+(ck|kc)(ed|ing)|ph[vu]+h*c+[hjvk]*\\\\w*|son\\\\W*of\\\\W*a\\\\W*bitch|\\\\w*who+re(ed|ing|s)|c(o|ah|aw)c?k(s|ed)|s+h+[ily]+t+[ersy]*|a+ss+\\\\W*w?hole?\\\\w*|ph[vu]+c?[xkq]+\\\\w*|f[vu]+c?[xkq]+\\\\w*|bull+sh+[ily]+t+|god\\\\W*damn?\\\\W*it|уёбищная|god\\\\W*damn?\\\\w*|a+ss+\\\\W*fu\\\\w*|c(o|ah|aw)c?k|d[il]+(ck|kc)|b+i+a*t+c+h+|butt\\\\W*fu\\\\w*|cumm(er|ing)|f[vu]+h*c\\\\w*|f[vu]+h*q\\\\w*|sh+i+[ae]+t+|c+u+n+t+\\\\w*|d+i+c+k+s*|fu‎cking|a+sholes?|sh+e+i+t+|F\\\\.U\\\\.C\\\\.K|chodes?|cumshot|fucking|fu‎ck|shit\\\\w*|shtpost|who+re?|cumbag|sluts?|slutty|twats?|cums?|dafuq|diсk|sh it|coq+|hore|kock|shat|dik|fck|\\\\w*negr[ao]+e?s?\\\\w*|\\\\w*f+u+c+k+\\\\w*|\\\\w*fцск\\\\w*|\\\\w*shіtty\\\\w*|\\\\w*f_uc_k\\\\w*|\\\\w*pussy\\\\w*|n+([ehiy]+|ay|ey|io|[il]+)[bgq$]+h?(a+|aer|a+h+|a+r+|e+|ea|eoa|e+r+|ie|ier|let|lit|o|or|r+|u|uh|uhr|u+r+|ward|y+)s*|f[ae]y?g+[oeiu]+t+s?|ching\\\\W*chongs?|n󠀡󠀡iggers|re+t+a?r[dt]+s?|towel\\\\W*heads?|pac?k(i|ie|y)|ting\\\\W*tongs?|trann(ie|y)s?|white\\\\W*trash|ni:gg\\\\w*:\\\\w*|chin(c|k)s?|n+i+[gq]+s?|yam\\\\W*yams?|\\\\w*niggas?|chinamans?|polacke?s?|neekeris?|nigfhers?|redskins?|beaners?|coolies?|f+a+g+s*|fenians?|gringos?|newfags?|ni gg er|nigga\\\\w*|niggles?|nignogs?|rus+kis?|wiggers?|Ϝaggоt|gypsies|injuns?|jiggas?|nikkas?|wiggas?|\\\\w*fag|coons?|dykes?|fa66ot|fagts?|gooks?|gypos?|homos?|kikes?|spics?|tards?|abos?|fgts?|fаgs|gypsy|japs?|wops?|fagz|fаg|f@g|\\\\w*N󠀡󠀡IGGE󠀡󠀡R\\\\w*|\\\\w*ɴɪɢɢᴇʀ\\\\w*|\\\\w*nіggеr\\\\w*|\\\\w*NÍGGER\\\\w*|\\\\w*n\\\\\\\\\\\\|gger\\\\w*|\\\\w*niggеr\\\\w*|\\\\w*F4GG0T\\\\w*|\\\\w*N1GG3R\\\\w*|\\\\w*nigger\\\\w*|\\\\w*nigg4\\\\w*|\\\\w*niggz\\\\w*)\\\\b\""
+		"CTextFilterStore_strCleanPattern"		"\"^(\\\\b(fak(ed|ers?|ing)|montenegro|pinegrove|n\\\\.e\\\\.ig\\\\.e\\\\.|fukushima|nie gee|fuchsia|cock\\\\.li|fuxius|fucuro|niego|niebo|neige|neggy|nebby|fuxis|cwfag|pubg|niby|nebo|fuku|fuki|fakt)\\\\b)$\""
+		"ChatStorePopupState_993534883"		"{\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
+	}
+	"News"
+	{
+		"Messages"
+		{
+			"4532077864441161545"		"1"
+			"6163996429025163818"		"1"
+			"7969512140028150499"		"1"
+		}
+	}
+	"system"
+	{
+		"PushToTalkKey"		"0"
+	}
+	"nettickets"
+	{
+		"730"		"010000004c1e40b49571e582eb777fdbd5f280c85fa7b889ccc43d1344cf296f0033de1b742fb6438ea6d52a3014bc712537303f93c054820a35522c6bdf144f2b9048bf1b400659f45ffae740ed531655119c5c1dffe02eee956345b9c5ef222a2ae5a70f53dad0ce540ef797594737de127ba44b6651cecb62189449390053bcf9b55df3731f5caf8b1a415f1ab065d7b84d2565b335302f65a1b3c38c7edf6f1a69549dda1657de4af42262444f658e480a4c10616847d7d2a70be78683bdde8f01ea19b1308222b9885ecc196030c242889a1f5c98ff94be70853d6128d312cdd66afc74643a7b98d14b8df3a022305d530affd40c10ef768a"
+	}
+}
