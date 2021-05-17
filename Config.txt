@@ -1,0 +1,3 @@
+alias "+jumpthrow" "+jump;-attack" || "+jump;-attack2" || "+jump;-attack2;-attack"; alias "-jumpthrow" "-jump"; bind space +jumpthrow; bind mwheelup "toggle cl_righthand 0 1"; bind mwheeldown +jump;
+
+CSGO-EtfbZ-xMF7t-Yw5LN-BdrH7-eWfOQ
