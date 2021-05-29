@@ -1,3 +1,21 @@
-alias "+jumpthrow" "+jump;-attack" || "+jump;-attack2" || "+jump;-attack2;-attack"; alias "-jumpthrow" "-jump"; bind space +jumpthrow; bind mwheelup "toggle cl_righthand 0 1"; bind mwheeldown +jump;cl_radar_scale 0.40
+alias "+jumpthrow" "+jump;-attack" || "+jump;-attack2" || "+jump;-attack2;-attack"; 
+alias "-jumpthrow" "-jump"; bind space +jumpthrow; 
+bind mwheelup "toggle cl_righthand 0 1"; 
+bind mwheeldown +jump;
+
+bind 1 "slot1 ; cl_crosshairsize 1"; 
+bind 2 "slot2 ; cl_crosshairsize 1"; 
+bind 3 "slot3 ; cl_crosshairsize 1";
+bind 4 "slot4 ; cl_crosshairsize 1000";
+
+bind z "use weapon_flashbang; cl_crosshairsize 1000"; 
+bind x "use weapon_smokegrenade; cl_crosshairsize 1000";
+bind v "use weapon_hegrenade; cl_crosshairsize 1000";
+bind c "use weapon_molotov; cl_crosshairsize 1000;
+ use weapon_incgrenade";
+
+cl_radar_scale 0.40;
+
+
 
 CSGO-EtfbZ-xMF7t-Yw5LN-BdrH7-eWfOQ
