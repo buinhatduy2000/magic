@@ -1,28 +1,24 @@
-;Subscribe to Gaming With Zahin on YouTube!!!
-;https://www.youtube.com/c/gamingwithzahin
 ;Settings
 sens:=2.51
 zoomsens:=1
 
 ;Key binds
-key_AK:="F4"
-key_M4A1:="F6"
-key_M4A4:="F7"
-key_Famas:="F8"
-key_Galil:="F9"
+key_Galil:="F2"
+key_AK:="F3"
+key_Famas:="F4"
+key_M4A1:="F5"
+key_M4A4:="F6"
+
 key_UMP:="F12"
 key_AUG:="Home"
 key_SG:="End"
-key_RCoff:="F11"
+key_RCoff:="F1"
 key_Terminate:="F10"
 key_shoot:="LButton"
 key_zoom:="LAlt"
 
 ;do not touch this if you don't know what are you doing
 modifier:=2.52/sens
-Hotkey, *~$Space, Off
-Hotkey, *~$MButton, Off
-Hotkey, *~$t, Off
 
 ;Main program loop, don't break out of it
 loop {
@@ -1868,61 +1864,3 @@ break
 }
 }
 }
-
-;Bhop
-~F1::
-Hotkey, *~$Space, Toggle
-SoundPlay, %A_ScriptDir%\12.mp3
-return
-*~$Space::
-sleep 1
-loop
-{
-GetKeyState, SpaceState, Space, P
-if Spacestate = U
-break 
-sleep 1
-Send, {Blind}{Space}
-}
-return
-
-;Rapid fire
-~F2::
-Hotkey, *~$MButton, Toggle
-SoundPlay, %A_ScriptDir%\13.mp3
-return
-*~$MButton::
-sleep 10
-loop
-{
-GetKeyState, state, MButton
-if state = U
-break 
-Sleep 1
-Send, {Blind}{LButton}
-}
-return
-
-;180 Turnaround
-F3::
-Hotkey, *~$t, Toggle
-SoundPlay, %A_ScriptDir%\11.mp3
-return
-*~$t::
-DllCall("mouse_event", "UInt", 0x01, "UInt", 223*modifier, "UInt", 0)
-sleep 1
-DllCall("mouse_event", "UInt", 0x01, "UInt", 432*modifier, "UInt", 0)
-sleep 1
-DllCall("mouse_event", "UInt", 0x01, "UInt", 432*modifier, "UInt", 0)
-sleep 1
-DllCall("mouse_event", "UInt", 0x01, "UInt", 432*modifier, "UInt", 0)
-sleep 1
-DllCall("mouse_event", "UInt", 0x01, "UInt", 432*modifier, "UInt", 0)
-sleep 1
-DllCall("mouse_event", "UInt", 0x01, "UInt", 432*modifier, "UInt", 0)
-sleep 1
-DllCall("mouse_event", "UInt", 0x01, "UInt", 432*modifier, "UInt", 0)
-sleep 1
-DllCall("mouse_event", "UInt", 0x01, "UInt", 432*modifier, "UInt", 0)
-sleep 200
-return
